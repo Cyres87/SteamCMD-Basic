@@ -1,2 +1,1 @@
-# steamcmd-Basic
 # SteamCMD-Basic
